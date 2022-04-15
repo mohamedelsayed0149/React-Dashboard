@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.go-web-logo{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: contain;
+}
